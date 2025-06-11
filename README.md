@@ -2,8 +2,6 @@
 
 This is a responsive **Twitter (now X) UI clone**, built with **HTML**, **Tailwind CSS**, and a touch of **JavaScript**. It replicates the frontend layout of Twitter including the sidebar navigation, post section, and input areas — all styled with modern design principles.
 
-![Twitter UI Clone Screenshot](https://pbs.twimg.com/profile_images/1891545956136648706/u5oHKJ7n_400x400.jpg)
-
 ## 🚀 Features
 
 - 🌓 Dark-themed interface, inspired by Twitter’s modern UI.
